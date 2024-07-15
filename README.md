@@ -1,8 +1,9 @@
 # DH5160-week7
 
-Credit to nlmlnyy
+
 Basics of data visualization
 ================
+Credit to nlmlnyy
 Kasper Welbers, Wouter van Atteveldt & Philipp Masur
 2022-06
 
